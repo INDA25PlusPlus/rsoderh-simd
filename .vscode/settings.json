@@ -1,7 +1,11 @@
 {
     "cSpell.words": [
+        "cvtss",
+        "fmadd",
         "ipetkov",
         "rsoderh",
+        "setr",
+        "Simd",
         "Sisd"
     ]
 }

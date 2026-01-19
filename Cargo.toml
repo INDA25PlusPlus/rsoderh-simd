@@ -5,7 +5,7 @@ edition = "2024"
 
 [dependencies]
 approx = "0.5.1"
-bytemuck = "1.24.0"
+bytemuck = { version = "1.24.0", features = ["derive"] }
 
 [dev-dependencies]
 criterion = { version = "0.8.1", features = ["html_reports"] }
